@@ -1,0 +1,15 @@
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/bin/Debug/net6.0/S1_L1_Task1
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/bin/Debug/net6.0/S1_L1_Task1.deps.json
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/bin/Debug/net6.0/S1_L1_Task1.runtimeconfig.json
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/bin/Debug/net6.0/S1_L1_Task1.dll
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/bin/Debug/net6.0/S1_L1_Task1.pdb
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.csproj.AssemblyReference.cache
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.AssemblyInfoInputs.cache
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.AssemblyInfo.cs
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.csproj.CoreCompileInputs.cache
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.dll
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/refint/S1_L1_Task1.dll
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.pdb
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/S1_L1_Task1.genruntimeconfig.cache
+/Users/alekseydemockin/Desktop/GeekBrains/S_yaziki_prog/HomeWork/S1_L1_Task1/obj/Debug/net6.0/ref/S1_L1_Task1.dll

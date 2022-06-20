@@ -4,12 +4,19 @@
 Console.WriteLine("Введите число");
 string param = Console.ReadLine();
 int num = int.Parse(param);
-int num2 = num%7;
-if (num2 > 0 && num2 < 6)
+if (num > 0 && num < 8)
 {
-    System.Console.WriteLine($"{num2} это будни");
+if (num > 0 && num <=5)
+{
+    System.Console.WriteLine($"{num} это будни");
 }
-if (num2 > 5 && num2 < 8)
+
+if (num >= 6 && num <=7)
 {
-    System.Console.WriteLine($"{num2} это выходной");
+    System.Console.WriteLine($"{num} это выходной");
+}
+}
+else 
+{
+    System.Console.WriteLine("такого дня недели нет");
 }

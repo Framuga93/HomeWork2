@@ -62,10 +62,9 @@ int index = array.Length - 1;
         index--;
     }
 for (int i = 0; i <= array.Length; i++)
-    if (array[i] != array[array.Length - 1])
+    if (array[i] != array[array.Length - i - 1])
     {
         System.Console.WriteLine("не палиндром ");
-        break;
     }
     else 
     {

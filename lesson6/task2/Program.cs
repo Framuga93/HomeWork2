@@ -24,7 +24,7 @@ if (k1==k2 || b1==b2)
     System.Console.WriteLine("точки пересечения нет");
 }
 
-double x = (b1-b2)/(k1-k2);
+double x = (b1-b2)/(k2-k1);
 double y = k1*x+b1;
 System.Console.WriteLine($"координаты точек пересечения {x} , {y}");
 

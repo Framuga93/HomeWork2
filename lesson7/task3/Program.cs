@@ -43,7 +43,9 @@ double[] FindSum(int[,] array)
     {
         double sum = 0;
         for (int i = 0; i < array.GetLength(0); i++) 
-        sum += array[i, j];
+        {
+            sum += array[i, j];
+        }
         averageSumArray[j] = sum / averageSumArray.GetLength(0);
     }
     return averageSumArray;

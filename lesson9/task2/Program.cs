@@ -9,17 +9,17 @@ int Prompt(string message)
     return int.Parse(System.Console.ReadLine());
 }
 
-int PrintNatural(int n, int m)
+int SumNatural(int n, int m)
 {
     int sum = 0;
     if(n != m)
     {
         sum = m+n;
-        return sum + PrintNatural(n-1,m+1);
+        return sum + SumNatural(n-1,m+1);
     }
 
     sum = m+sum;
     return sum;
 }
 
-System.Console.WriteLine(PrintNatural(Prompt("write N "), Prompt("write M"))); 
+System.Console.WriteLine(SumNatural(Prompt("write N "), Prompt("write M"))); 
